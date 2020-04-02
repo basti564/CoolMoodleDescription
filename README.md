@@ -10,7 +10,7 @@ A Cool Profile Page For Moodle
 ![html](https://user-images.githubusercontent.com/34898868/78040952-6e2a0380-7370-11ea-947a-5dd1824d938f.png)
 ### Paste your code
 ![paste](https://user-images.githubusercontent.com/34898868/78042739-bb0ed980-7372-11ea-8510-b3080561f616.png)
-```
+```html
 <h1 style="padding-top:80px;"></h1>
 <div class="vjs-poster">
   <h1 class="text-danger">
